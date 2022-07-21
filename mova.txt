@@ -1,0 +1,26 @@
+Cenário 01: Buscar utilizando o ENTER
+Dado que eu acesse o duckduckgo
+Quando digito a pesquisa sobre as últimas notícias sobre Bitcoin
+E tecle ENTER
+Então o sistema deve retornar as pesquisas relacionadas ao Bitcoins
+
+
+Cenário 02: Buscar utilizando a LUPA
+Dado que eu acesse o duckduckgo
+Quando digito a pesquisa sobre as últimas notícias sobre Bitcoin
+E clico na lupa de pesquisa
+Então o sistema deve retornar as pesquisas relacionadas ao Bitcoins
+
+
+Cenário 03: Buscar pelo formulário diretamente
+Dado 
+Quando
+E
+Então
+
+Cenário 04: Retornar mais de 10 resultados
+Dado que eu acesse o duckduckgo
+Quando digito a pesquisa sobre as últimas notícias sobre Bitcoin
+E clico na lupa de pesquisa
+E o sistema retorna os resultados
+Então verifico se o retorno do resultado pesquisado é maior que 10
