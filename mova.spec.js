@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-context('Pesquisar', () => {
+context('Hand On - MOVA', () => {
 
   beforeEach(function () {
     cy.visit('https://duckduckgo.com')
